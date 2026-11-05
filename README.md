@@ -1,27 +1,35 @@
-# Hi, I'm Vibin Sam 👋
+# Hi, I'm Vibin 👋
 
-I'm an incoming Computer Science student from India who enjoys learning by building.
+**CSE Undergraduate @ Madras Institute of Technology, Chennai (2026–2030)**
 
-I'm currently exploring Python, C++, and embedded systems while working on projects that can make education more effective and accessible. I enjoy breaking down complex ideas into simple explanations and documenting what I learn along the way.
+I'm interested in building reliable software systems that solve real-world problems. I learn by building, testing assumptions, understanding how things work beneath the surface, and iterating on real projects.
 
-I'm not an expert—I believe in learning in public, asking questions, and improving through feedback. If you're also building, learning, or experimenting with technology, I'd be happy to connect and exchange ideas.
+### Current Track
 
-## 🎯 Current Focus
+- **AI & Applied Software:** Building practical AI-powered tools and exploring the reliability challenges of turning model outputs into useful applications.
+- **Engineering Visualization:** Working on an Engineering Drawing agent that translates textual and visual inputs into graphical projections using a vision LLM and Three.js.
+- **Systems & Computer Science Fundamentals:** Strengthening my foundation in C, data structures, algorithms, and systems-oriented problem solving.
+- **Problem Solving:** Developing independent reasoning and algorithmic thinking, with competitive programming as a long-term direction.
 
-* 🐍 Python and software development
-* 💡 Building educational technology projects
-* 🧩 Systems thinking and problem solving
-* 🌱 Open-source learning
+### Projects I'm Building
 
-## 📂 What you'll find here
+- **Engineering Drawing AI Agent** — Exploring OCR-to-geometry workflows, projection generation, and accurate interpretation of engineering dimensions.
+- **Cognizota** — An educational technology project exploring focused study sessions and attention tracking.
+- **DOMS-MIT** — A digital outpass workflow designed to simplify student and institutional processes.
 
-* 📖 Learning notes
-* 🛠️ Small projects and experiments
-* 🚀 Project updates
-* 📈 Progress over perfection
+### How I Approach Engineering
 
-## 🤝 Let's Connect
+- Understand the problem before choosing the technology.
+- Prefer reasoning and experimentation over blindly copying solutions.
+- Treat correctness, reliability, testing, and documentation as part of the product.
+- Build for actual users and improve through feedback.
 
-I'm always open to learning from others, sharing ideas, and contributing to a positive developer community.
+### Currently Learning
 
-Thanks for stopping by! ⭐
+C · Data Structures & Algorithms · Systems Fundamentals · AI Application Engineering · 3D Visualization
+
+### Connect
+
+I'm interested in collaborating on meaningful software projects, learning from other builders, and solving practical engineering problems.
+
+*Building in public, one iteration at a time.*
